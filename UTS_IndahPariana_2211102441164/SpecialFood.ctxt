@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SpecialFood
+comment1.params=value
+comment1.target=SpecialFood(int)
+comment2.params=
+comment2.target=int\ getValue()
+numComments=3
